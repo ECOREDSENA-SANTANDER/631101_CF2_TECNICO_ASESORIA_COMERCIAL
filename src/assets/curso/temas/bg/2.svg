@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1229.071" height="456.656" viewBox="0 0 1229.071 456.656">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.697" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d6d1df"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_1181404" data-name="Grupo 1181404" transform="translate(-185 -321.132)">
+    <rect id="Rectángulo_409290" data-name="Rectángulo 409290" width="1229.071" height="456.656" transform="translate(185 321.132)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
