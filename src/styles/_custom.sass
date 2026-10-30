@@ -49,6 +49,45 @@ figcaption
 .banner-interno__fondo
     background-image: url(../assets/curso/portada/fondo-banner-temas.png) !important
 
+//Titulo 3er icono +  texto
+.titulo-tercer-nivel
+  width: fit-content
+  max-width: 100%
+  position: relative
+  display: inline-flex
+  align-items: center
+  border-bottom: #AEA3BE double 10px 
+  padding-right: 16px
+  padding-left: 55px
+  min-height: 48px
+ 
+  @media screen and (max-width: $bp-min-md)
+    padding-left: 0px
+
+
+  &__icon
+    position: absolute
+    left: 0px
+    top: 71%
+    transform: translateY(-50%)
+    width: 50px
+    max-width: 85px
+    height: auto
+
+    @media screen and (max-width: $bp-min-md)
+      display: none
+
+  &__text
+    margin: 0
+    margin: 0 15px 0 10px
+    white-space: normal
+    word-break: break-word
+//TABLA-A ALTOS
+.tabla-a.t-cus table td
+    line-height: 2.5 !important
+.tabla-a thead 
+    border-top: 5px solid #46D9FF
+    background-color: #ECFBFF
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -66,7 +105,17 @@ figcaption
     background-repeat: no-repeat
 .bg-color
   &-1
-    background-color: $color-primario
+    background-color: #CCDCE0
+  &-2
+    background-color: #12263F
+  &-3
+    background-color: #F3F9FF
+  &-4
+    background-color: #D6D1DF
+  &-5
+    background-color: #AEA3BE
+  &-6
+    background-color: #CCDCE0
 
 
 
@@ -85,8 +134,14 @@ figcaption
 .wcus
   &-1
     width: 10%
+  &-2
+    width: 80%
 
-
+.br
+  &-1
+    border-radius: 1rem
+  &-2
+    border-radius: 3rem
 /**************************************************************/
 /*Media Queries*/  
 /**************************************************************/
