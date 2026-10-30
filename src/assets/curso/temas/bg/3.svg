@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1228" height="474" viewBox="0 0 1228 474">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.331" x2="0.506" y2="1.179" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#aea3be"/>
+      <stop offset="1" stop-color="#ecfbff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_456702" data-name="Rectángulo 456702" width="1228" height="474" rx="20" transform="translate(1419.746 5353) rotate(180)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1181392" data-name="Grupo 1181392" transform="translate(-185.711 -3029)">
+    <rect id="Rectángulo_456699" data-name="Rectángulo 456699" width="1228" height="474" rx="20" transform="translate(1413.711 3503) rotate(180)" fill="url(#linear-gradient)"/>
+    <g id="Enmascarar_grupo_1180233" data-name="Enmascarar grupo 1180233" transform="translate(-6.035 -1850)" clip-path="url(#clip-path)">
+      <g id="Grupo_1180418" data-name="Grupo 1180418">
+        <path id="Elipse_4044" data-name="Elipse 4044" d="M15.827,4.718c6.368,0,11.549,5.715,11.549,12.739S22.2,30.2,15.827,30.2,4.278,24.481,4.278,17.457,9.459,4.718,15.827,4.718m0-4.718C7.086,0,0,7.816,0,17.457S7.086,34.913,15.827,34.913,31.654,27.1,31.654,17.457,24.568,0,15.827,0Z" transform="translate(1382.346 4948.471)" fill="#fff"/>
+        <path id="Elipse_4044-2" data-name="Elipse 4044" d="M15.827,4.718c6.368,0,11.549,5.715,11.549,12.739S22.2,30.2,15.827,30.2,4.278,24.481,4.278,17.457,9.459,4.718,15.827,4.718m0-4.718C7.086,0,0,7.816,0,17.457S7.086,34.913,15.827,34.913,31.654,27.1,31.654,17.457,24.568,0,15.827,0Z" transform="translate(308.346 5288.051)" fill="#fff"/>
+        <g id="Rectángulo_456700" data-name="Rectángulo 456700" transform="translate(1330 4895.057)" fill="none" stroke="#fff" stroke-width="5">
+          <rect width="177" height="37.61" rx="18.805" stroke="none"/>
+          <rect x="2.5" y="2.5" width="172" height="32.61" rx="16.305" fill="none"/>
+        </g>
+        <g id="Rectángulo_456701" data-name="Rectángulo 456701" transform="translate(163 5332.39)" fill="none" stroke="#fff" stroke-width="5">
+          <rect width="177" height="37.61" rx="18.805" stroke="none"/>
+          <rect x="2.5" y="2.5" width="172" height="32.61" rx="16.305" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
